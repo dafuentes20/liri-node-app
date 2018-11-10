@@ -327,3 +327,41 @@ Country: United Kingdom
 
 ---------------------------------------
 
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+
+---------------------------------------
+
+Artist: Kanye West
+Song: I Love It (& Lil Pump)
+Preview: https://p.scdn.co/mp3-preview/fa069a3be2d69aab5378b55f6c66d8b3eff1a6d3?cid=df3e1577450749d9b47265704d44b0ff
+Album: I Love It
+
+---------------------------------------
+
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+
+---------------------------------------
+
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 86%
+Country: USA, UK
+Language: English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+
+---------------------------------------
+
+
+---------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=df3e1577450749d9b47265704d44b0ff
+Album: The Hits--Chapter One
+
+---------------------------------------
+
