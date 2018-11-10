@@ -1,0 +1,329 @@
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+
+---------------------------------------
+
+Artist: Queen
+Song: We Are The Champions - Remastered 2011
+Preview: null
+Album: News Of The World (Deluxe Remastered Version)
+
+---------------------------------------
+
+Invalid Command, please try one of the following: concert-this, spotify-this-song, movie-this, do-what-it-says.
+
+---------------------------------------
+
+Date: 11/10/2018
+Name: Aztec Theatre
+City: San Antonio
+Country: TX
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/11/2018
+Name: House of Blues Dallas
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/12/2018
+Name: House of Blues Houston
+City: Houston
+Country: TX
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/14/2018
+Name: Ogden Theatre
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/15/2018
+Name: Rockwell At The Complex
+City: Salt Lake City
+Country: Utah
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/16/2018
+Name: Revolution Concert House
+City: Garden City
+Country: ID
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/17/2018
+Name: Roseland Theater
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/18/2018
+Name: Showbox SoDo
+City: Seattle
+Country: WA
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/20/2018
+Name: The Warfield
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/21/2018
+Name: Hollywood Palladium
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/23/2018
+Name: The Van Buren
+City: Phoenix
+Country: AZ
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/24/2018
+Name: Pearl Concert Theater at Palms Casino Resort
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/26/2018
+Name: Sunshine Theater
+City: Albuquerque
+Country: NM
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/27/2018
+Name: Diamond Ballroom
+City: Oklahoma City
+Country: OK
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 11/28/2018
+Name: Arvest Bank Theatre At the Midland
+City: Kansas City
+Country: MO
+Country: United States
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 01/31/2019
+Name: Planet.tt Bank Austria Halle Gasometer
+City: Wien
+Country: Austria
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/01/2019
+Name: Komplex 457
+City: Zurich
+Country: Switzerland
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/03/2019
+Name: Alcatraz
+City: Milan
+Country: Italy
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/04/2019
+Name: Zenith, die Kulturhalle
+City: Munchen
+Country: Germany
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/05/2019
+Name: Palladium
+City: Koln
+Country: Germany
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/07/2019
+Name: Ancienne Belgique
+City: Brussels
+Country: Belgium
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/08/2019
+Name: Zenith Paris - La Villette
+City: Paris
+Country: France
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/09/2019
+Name: Stadthalle Offenbach
+City: Offenbach Am Main
+Country: Germany
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/11/2019
+Name: Forum Karlin
+City: Prague
+Country: Czech Republic
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/12/2019
+Name: Klub Stodoła
+City: Warsaw
+Country: Poland
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/13/2019
+Name: Columbiahalle
+City: Berlin
+Country: Germany
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/15/2019
+Name: Rockhal
+City: Roeser
+Country: Luxembourg
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/16/2019
+Name: sporthalle hamburg
+City: Hamburg-nord
+Country: Germany
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/18/2019
+Name: Poppodium 013
+City: Tilburg
+Country: Netherlands
+
+---------------------------------------
+
+
+---------------------------------------
+
+Date: 02/20/2019
+Name: Alexandra Palace
+City: London
+Country: United Kingdom
+
+---------------------------------------
+
